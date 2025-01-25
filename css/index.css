@@ -38,7 +38,11 @@
         width:  5rem;
         border-radius: 0.5rem;
     }
-    
+
+    .about-erica{
+        text-align: justify !important;
+    }
+
     .franklin{
         color: #2ECC71;
     }
